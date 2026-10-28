@@ -31,8 +31,8 @@
 // console.log(code);
 // console.log(code);
 
-let Salescount = 1;
-let refundCount = 1;
-let totalSalesCount = Salescount - refundCount;
+// let Salescount = 1;
+// let refundCount = 1;
+// let totalSalesCount = Salescount - refundCount;
 
-console.log(totalSalesCount);
+// console.log(totalSalesCount);
